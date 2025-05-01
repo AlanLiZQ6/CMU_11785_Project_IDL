@@ -10,3 +10,26 @@ Accurate and rapid flow-field prediction is crucial in many engineering applicat
 2. Aditya Sannabhadti, asannabh@abdrew.cmu.edu
 3. Zhuoqi Li, [zhuoqili@andrew.cmu.edu](mailto:zhuoqili@andrew.cmu.edu)
 4. Cheick Dosso, cdosso@andrew.cmu.edu
+
+
+
+# Wandb Records
+
+Project: https://wandb.ai/zhuoqili/11785_project/overview
+
+5 Graphs Training logs: 
+
+1. https://wandb.ai/zhuoqili/11785_project/runs/thdxfwr2/logs
+2. https://wandb.ai/zhuoqili/11785_project/runs/sjp6vkr9/logs
+3. https://wandb.ai/zhuoqili/11785_project/runs/sv9b6qjx/logs
+4. https://wandb.ai/zhuoqili/11785_project/runs/g05ipvzq/logs
+5. https://wandb.ai/zhuoqili/11785_project/runs/01dumws3/logs
+
+Test Logs:
+
+(Length:0.25 Width:3) https://wandb.ai/zhuoqili/11785_project/runs/evhid9ti/logs
+
+(Length:1 Width:3) https://wandb.ai/zhuoqili/11785_project/runs/eq6xlq2t/logs
+
+(Length:1 Width:4) https://wandb.ai/zhuoqili/11785_project/runs/2n6qmgkr/logs
+
